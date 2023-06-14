@@ -8,6 +8,60 @@
     </head>
     <body>
         <h1>N8845J Checklists</h1>
+        <h2>Pre-Airport</h2>
+        <form>
+            <label for="weather-synopsis" class="form-label">Weather Synopsis</label>
+            <textarea class="form-control" id="weather-synopsis" rows="3" placeholder="Brief synopsis of current and forecaste weather conditions"></textarea>
+            <p></p>
+            <label for="density-altitude" class="form-label">Density Altitude</label>
+            <div class="input-group">
+                <span class="input-group-text" id="field-elevation">Field Elevation</span>
+                <input type="text" class="form-control">
+                <span class="input-group-text">ft MSL</span>
+            </div>
+            <div class="input-group">
+                <span class="input-group-text" id="temperature">Temperature</span>
+                <input type="text" class="form-control">
+                <span class="input-group-text">deg F</span>
+            </div>
+            <div class="input-group">
+                <span class="input-group-text" id="dew-point">Dew Point</span>
+                <input type="text" class="form-control">
+                <span class="input-group-text">deg F</span>
+            </div>
+            <div class="input-group">
+                <span class="input-group-text" id="pressure">Pressure</span>
+                <input type="text" class="form-control">
+                <span class="input-group-text">inHg</span>
+            </div>
+            <div class="input-group">
+                <span class="input-group-text" id="density-altitude">Density Altitude</span>
+                <input type="text" class="form-control" readonly>
+                <span class="input-group-text">ft MSL</span>
+            </div>
+            <p></p>
+
+            <label for="Performance Requirements" class="form-label">Performance Requirements</label>
+            <div class="input-group">
+                <span class="input-group-text" id="takeoff-distance">Takeoff Distance</span>
+                <input type="text" class="form-control">
+                <span class="input-group-text">ft</span>
+            </div>
+            <div class="input-group">
+                <span class="input-group-text" id="landing-distance">Landing Distance</span>
+                <input type="text" class="form-control" readonly>
+                <span class="input-group-text">ft</span>
+            </div>
+
+
+        </form>
+
+        <li>Weather</li>
+        <li>Density Altitude</li>
+        <li>Weight & Balance</li>
+        <li>Performance Requirements</li>
+        <li>Personal Minimums</li>
+        <li>Flight Plan - Filed</li>
         <script src="./assets/bootstrap.js"></script>
     </body>
 </html>
