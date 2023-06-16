@@ -42,7 +42,7 @@
             </div>
             <br>
 
-            <label for="Performance Requirements" class="form-label">Performance Requirements</label>
+            <label for="performance-requirements" class="form-label">Performance Requirements</label>
             <div class="input-group">
                 <span class="input-group-text" id="takeoff-distance">Takeoff Distance</span>
                 <input type="text" class="form-control" readonly>
@@ -55,21 +55,40 @@
             </div>
             <br>
 
-            <input type="checkbox" class="btn-check" id="btn-check-outlined" autocomplete="off">
-            <label class="btn btn-outline-primary" for="btn-check-outlined">Weight & Balance Check</label>
+            <label for="personal-minimums" class="form-label">Personal Minimums</label>
+            <div class="form-check form-switch">
+                <input class="form-check-input" type="checkbox" role="switch" id="weight-balance-switch">
+                <label class="form-check-label" for="weight-balance-switch">Weight & Balance Checked</label>
+            </div>
+            <div class="form-check form-switch">
+                <input class="form-check-input" type="checkbox" role="switch" id="ceiling-switch">
+                <label class="form-check-label" for="ceiling-switch">Ceiling > 2500 ft AGL</label>
+            </div>
+            <div class="form-check form-switch">
+                <input class="form-check-input" type="checkbox" role="switch" id="visibility-switch">
+                <label class="form-check-label" for="visibility-switch">Visibility > 5 miles</label>
+            </div>
+            <div class="form-check form-switch">
+                <input class="form-check-input" type="checkbox" role="switch" id="crosswind-switch">
+                <label class="form-check-label" for="crosswind-switch">Xwind < 19 kts</label>
+            </div>
+            <div class="form-check form-switch">
+                <input class="form-check-input" type="checkbox" role="switch" id="wellness-switch">
+                <label class="form-check-label" for="wellness-switch">IMSAFE Checklist</label>
+            </div>
+            <div class="form-check form-switch">
+                <input class="form-check-input" type="checkbox" role="switch" id="runway-length-switch">
+                <label class="form-check-label" for="runway-length-switch">Runway > 1.5x needed</label>
+            </div>
             <br>
 
-            
+            <label for="flight-plan" class="form-label">Flight Plan</label>
+            <div class="form-check form-switch">
+                <input class="form-check-input" type="checkbox" role="switch" id="flightplan-switch">
+                <label class="form-check-label" for="flightplan-switch">Flightplan Filed</label>
+            </div>
+            <br>
 
-
-        </form>
-
-        <li>Weather</li>
-        <li>Density Altitude</li>
-        <li>Weight & Balance</li>
-        <li>Performance Requirements</li>
-        <li>Personal Minimums</li>
-        <li>Flight Plan - Filed</li>
         <script src="./assets/bootstrap.js"></script>
     </body>
 </html>
