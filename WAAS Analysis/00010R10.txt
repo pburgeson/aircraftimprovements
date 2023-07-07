@@ -1,0 +1,171 @@
+ALBANY, NEW YORK
+AL-10 (FAA)
+23110
+WAAS
+6780
+RNAV (GPS) RWY 10
+278
+CH 97523
+   
+APP CRS
+101°
+Apt Elev
+TDZE
+Rwy Idg 
+ALBANY INTL
+285
+(ALB)
+W10A
+RNP APCH - GPS.
+T
+climb-in-hold to 5000.
+and on track 091° to WARUV and hold, continue 
+MISSED APPROACH: Climb to 5000 direct SIMAY 
+Rwy 10 helicopter visibility reduction below 1 SM NA.
+Circling NA West of Rwy 1-19. Procedure NA at night.
+A
+D-ATIS
+GND CON
+120.45
+127.50
+CLNC DEL
+ALBANY APP CON
+ALBANY TOWER
+119.5   257.8
+121.7   348.6
+132.825   307.2
+MARIA on V2 northwest bound.
+Procedure NA for arrivals at 
+(IAF)
+1449
+MARIA
+3000
+137°
+5 NM
+1687
+(9.6)
+479
+097°
+(FAF)
+454
+277°
+ZEJAY
+(IF)
+RW10
+645
+091°
+(3.5)
+WARUV
+101°
+SIMAY
+(5.1)
+ 
+1900
+TURES
+692
+407
+1659
+3000
+060°
+(5)
+1
+0 
+W
+2
+R
+5
+ 
+857
+ 
+A
+N
+(IAF)
+S
+M
+M
+ 
+SHAHE
+4500
+799
+SHAHE on V542 westbound.
+Procedure NA for arrivals at 
+2294
+1934
+NE-2,  13 JUL 2023  to  10 AUG 2023
+NE-2,  13 JUL 2023  to  10 AUG 2023
+TDZE
+ELEV
+278
+285
+D
+19
+2407
+A5
+P
+WARUV
+5000
+SIMAY
+tr
+091°
+TURES
+TWR
+399
+8500 X 150
+7200 X 150
+3000
+28
+ZEJAY
+P
+10
+101°
+RW10
+1900
+3.00°
+101°
+TCH 50
+P
+5.1 NM
+4.9 NM
+A5
+CATEGORY
+B
+C
+D
+A
+1
+LP MDA
+562 (600-1)
+562 (600-1    )
+840-1  
+58
+58
+840-1
+LNAV MDA
+622 (700-1)
+622 (700-1   )
+900-1  
+900-1
+34
+34
+960-2   
+14
+900-1  
+34
+615 (700-1)
+900-1
+14
+REIL Rwys 10 and 28
+MIRL Rwy 10-28
+HIRL Rwy 1-19
+TDZ/CL Rwy 1
+615 (700-1   )
+34
+C CIRCLING
+675 (700-2   )
+ALBANY, NEW YORK
+ALBANY INTL
+(ALB)
+42°45'N-73°48'W
+Orig-D  06OCT22
+RNAV (GPS) RWY 10
+

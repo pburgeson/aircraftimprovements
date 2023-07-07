@@ -1,0 +1,188 @@
+ALBANY, GEORGIA
+AL-8 (FAA)
+23054
+WAAS
+RNAV (GPS) RWY 5
+CH
+APP CRS
+ 
+78000
+Apt Elev
+TDZE
+Rwy Idg
+SOUTHWEST GEORGIA RGNL
+(ABY)
+6601
+196
+196
+W05A
+047°
+RNP APCH.
+MALSR
+T
+A
+A5
+291° to PZD VOR/DME and hold.
+direct UNIKE and left turn on track
+MISSED APPROACH: Climb to 2000
+     RVR 1800 authorized with use of FD or AP or HUD to DA.
+above 54°C.  For inop ALS, increase LNAV Cat D visibility to RVR 6000.
+For uncompensated Baro-VNAV systems, LNAV/VNAV NA below -7°C or
+**
+GND CON
+ATIS   
+JACKSONVILLE CENTER
+ALBANY TOWER   
+(CTAF)L
+133.05
+125.75  363.075
+120.25            336.4
+121.9  348.6
+UNICOM
+122.95
+PECAN
+PZD
+on V35-159 northbound.
+Procedure NA for arrival at PZD VOR/DME
+061°
+241°
+746
+UNIKE
+(9.5)
+291°
+4 NM
+680
+635
+2200
+369
+213°
+(15)
+1275
+492
+319
+RW05
+300
+0
+5
+ 
+W
+2
+R
+ 
+5
+ZITIR
+(FAF)
+ 
+A
+N
+JIPVO
+(IAF)
+S
+M
+M
+ 
+2200
+2200
+2600
+047°
+(6.2)
+(5)
+137°
+(IF)
+NOGPE
+SE-4,  13 JUL 2023  to  10 AUG 2023
+SE-4,  13 JUL 2023  to  10 AUG 2023
+2200
+ELEV
+345°
+D
+196
+TDZE 196
+(5.9)
+(IAF)
+ELMOE
+23
+VGSI and RNAV glidepath not coincident
+2000
+UNIKE
+PZD
+17
+P
+V
+(VGSI Angle 3.00/TCH 55).
+tr
+ 291°
+ZITIR
+NOGPE
+2200
+6601 X 148
+*LNAV only.
+263
+TWR
+x x x
+252
+RW05
+1 NM to
+2200
+*
+047°
+5219 X 148
+RW05
+2200
+P
+GP 3.00°
+TCH 60
+A5
+5 NM
+1 NM
+6.2 NM
+V
+5
+35
+C
+D
+B
+CATEGORY
+A
+LPV   DA
+12
+396/24
+200 (200-   )
+**
+047°
+DA
+439 (500-1)
+635/50
+VNAV
+LNAV/
+LNAV  MDA
+12
+384 (400-   )
+580/50
+580/24
+L
+HIRL Rwy 5-23
+384 (400-1)
+L
+MIRL Rwy 17-35
+14
+940-2
+940-2
+12
+640-1
+660-1
+C CIRCLING
+REIL Rwys 17 and 23
+14
+12
+464 (500-1)
+444 (500-1)
+744 (800-2   )
+744 (800-2   )
+SOUTHWEST GEORGIA RGNL
+(ABY)
+ALBANY, GEORGIA
+Amdt 1D  26MAR20
+31°32'N-84°12'W
+RNAV (GPS) RWY 5
+

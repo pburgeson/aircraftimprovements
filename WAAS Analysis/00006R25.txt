@@ -1,0 +1,217 @@
+AKRON, OHIO
+AL-6 (FAA)
+22251
+WAAS
+APP CRS
+RNAV (GPS) RWY 25
+99735
+1059
+6074
+249°
+CH             
+Apt Elev
+TDZE
+Rwy Idg 
+AKRON FULTON INTL
+(AKR)
+1068
+W25A
+RNP APCH.
+3100 direct AWNEV and hold.
+MISSED APPROACH: Climb to 
+Circling Rwy 7 NA at night.
+Rwy 25 helicopter visibility reduction below 1 SM NA. 
+T
+A
+UNICOM
+ASOS
+CLEVELAND APP CON   
+CLNC DEL
+126.825
+123.075              
+(CTAF) L
+118.6   371.875
+121.6
+4 NM
+ 
+069°
+249°
+3100
+6000
+HOLD
+0
+0
+3
+2
+1523
+OGVOE
+(IF/IAF)
+2040
+249°
+ESPUQ
+IRAYO
+(FAF)
+65.)
+(
+1396
+1.6 NM to
+3
+ 
+0
+ 
+RW25
+N
+ 
+M
+1259
+ 
+2048
+3600
+ot
+RW25
+ 
+1292
+2
+0
+159°
+O
+ 
+N
+1516
+G
+M
+V
+1258
+1343
+1298
+ 
+159°
+O
+ 
+ 
+OGVOE
+t
+E
+o
+ 
+ 
+3100
+1241
+O
+3
+N(
+0
+G
+o
+ 
+ 
+P
+V
+OGVOE
+T
+ 
+N
+O
+)
+ 
+M
+E
+1464
+ 
+3100
+ 
+ 
+AWNEV
+ot
+339°
+ 
+O
+339°
+G
+069°
+V
+ 
+ 
+O
+E
+249°
+4 NM
+2048
+EC-2,  13 JUL 2023  to  10 AUG 2023
+EC-2,  13 JUL 2023  to  10 AUG 2023
+TDZE
+ELEV
+1059
+1068
+RW25
+249° to
+3100
+AWNEV
+Visual Segment - Obstacles.
+25
+4 NM
+P
+Holding Pattern
+OGVOE
+6336 X 150
+IRAYO
+P
+ESPUQ
+249°
+069°
+3100
+6000
+x
+x
+x x
+1.6 NM to
+249°
+RW25
+x
+7
+1262
+RW25
+2300
+1600
+2.2 NM
+6.5 NM
+1.6 NM
+CATEGORY
+C
+D
+A
+B
+38
+LP
+MDA
+1520-1 461 (500-1)
+38 461 (500-1   )
+1520-1
+LNAV  MDA
+38
+1560-1 501 (500-1)
+38 501 (500-1   )
+1560-1
+L
+1600-1
+1680-1
+1800-2 
+1840-2   
+12
+CIRCLING
+C
+L
+12
+MIRL Rwy 7-25
+REIL Rwys 7 and 25
+532 (600-1)
+612 (700-1)
+732 (800-2)
+772 (800-2   )
+AKRON, OHIO
+AKRON FULTON INTL
+(AKR)
+Orig-D   08SEP22
+41°02'N-81°28'W
+RNAV (GPS) RWY 25
+

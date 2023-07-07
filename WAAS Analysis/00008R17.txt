@@ -1,0 +1,206 @@
+ALBANY, GEORGIA
+AL-8 (FAA)
+23054
+WAAS
+5219
+RNAV (GPS) RWY 17
+CH
+48815
+167°
+Apt Elev
+TDZE
+Rwy Idg
+APP CRS
+SOUTHWEST GEORGIA RGNL
+(ABY)
+196
+196
+W17A
+RNP APCH.
+34
+T
+and on track 226° to ELMOE and hold.
+MISSED APPROACH: Climb to 3000 direct TUPGE
+Baro-VNAV systems, LNAV/VNAV NA below -7°C or above 54°C.
+Rwy 17 helicopter visibility reduction below     SM NA.  For uncompensated
+A
+GND CON
+ATIS   
+JACKSONVILLE CENTER
+ALBANY TOWER   
+L
+UNICOM
+122.95
+133.05
+125.75  363.075
+120.25            336.4
+(CTAF)
+121.9  348.6
+1
+7
+ 
+W
+2
+(IAF)
+R
+ 
+5
+ 
+A
+KUTVE
+(IAF)
+N
+S
+M
+BRONN
+M
+DESKS
+(IAF)
+167° (5.1)
+2000 NoPT
+ 
+2600
+137°
+2000 NoPT
+222°
+(12.2)
+2000 NoPT
+(7.6)
+4 NM
+167°
+6000
+HOLD 2000
+347°
+WETVO
+(IF/IAF)
+2000
+018° (4.7)
+2000
+(6.6)
+167°
+PECAN
+PZD
+747
+680
+ZOTIG
+(FAF)
+635
+369
+1275
+492
+V159 southeast bound and on V5 southwest bound.
+Procedure NA for arrival at PZD VOR/DME on
+RW17
+300
+SE-4,  13 JUL 2023  to  10 AUG 2023
+SE-4,  13 JUL 2023  to  10 AUG 2023
+ELEV
+D
+196
+TDZE
+196
+MISSED APCH FIX
+TUPGE
+167°
+4 NM
+189°
+23
+226°
+009°
+(12.4)
+17
+P
+ELMOE
+V
+3000
+TUPGE
+ELMOE
+4 NM
+tr
+ZOTIG
+WETVO
+Holding Pattern
+ 226°
+6601 X 148
+263
+TWR
+2000
+x x x
+252
+1.2 NM to
+5219 X 148
+LNAV only.
+*
+*
+RW17
+2000
+6000
+167°
+167°
+347°
+RW17
+P
+GP 3.00°
+2000
+A5
+TCH 52
+V
+5
+1.2
+4.2 NM
+6.6 NM
+35
+C
+D
+B
+CATEGORY
+A
+338 (400-1   )
+LPV        DA
+534-1
+14
+14
+603-1
+407 (500-1   )
+12
+12
+VNAV
+LNAV/
+DA
+640-1
+640-1
+14
+12
+LNAV  MDA
+444 (500-1)
+L
+640-1
+HIRL Rwy 5-23
+14
+12
+444 (500-1   )
+444 (500-1   )
+L
+MIRL Rwy 17-35
+14
+940-2
+940-2
+640-1
+12
+660-1
+CIRCLING
+C
+REIL Rwys 17 and 23
+444 (500-1)
+14
+12
+464 (500-1)
+744 (800-2   )
+744 (800-2   )
+SOUTHWEST GEORGIA RGNL
+(ABY)
+ALBANY, GEORGIA
+Amdt 1C  26MAR20
+31°32'N-84°12'W
+RNAV (GPS) RWY 17
+

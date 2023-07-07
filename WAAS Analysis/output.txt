@@ -1,0 +1,197 @@
+ABILENE, TEXAS
+AL-1 (FAA)
+22307
+            WAAS
+RNAV (GPS) RWY 17L
+50317
+CH  
+   
+APP CRS
+175°
+Apt Elev
+TDZE
+Rwy Idg 
+ABILENE RGNL
+(ABI)
+7198
+1791
+1791
+W17A
+RNP APCH.
+T
+and hold, continue climb-in-hold to 4000.
+MISSED APPROACH: Climb to 4000 direct IBRIF 
+A
+-18°C or above 45°C.  
+For uncompensated Baro-VNAV systems, LNAV/VNAV NA below
+ABILENE APP CON
+GND CON
+118.25
+ABILENE TOWER
+120.1  257.8
+121.7  348.6
+(EAST)
+(WEST)
+ATIS
+125.0  338.3
+127.2  282.3
+ROGEE
+(IF)
+3900
+HIZSU
+(19.8)
+ 227°
+(IAF)
+ 265°
+3900
+ 085°
+3900
+(IAF)
+ANETY
+(5)
+(5)
+EHHAD
+3400
+(6.1)
+175°
+3900
+ 030°
+(8)
+(FAF)
+GOFDO
+ABILENE
+ABI
+Airpark
+Elmdale
+(Pvt)
+1817
+airway radials 037 CW 071.
+on ABI VORTAC 
+Procedure NA for arrivals
+1993
+2300
+2005
+1817
+RW17L
+7
+1
+L
+W
+ 
+2
+R
+ 
+5 
+A
+2100
+N
+S
+M
+M
+ 
+4600
+2261
+IBRIF
+175°
+2758
+2740
+2991
+SC-2,  13 JUL 2023  to  10 AUG 2023
+SC-2,  13 JUL 2023  to  10 AUG 2023
+2750
+D
+4 NM
+ELEV 1791
+TDZE 1791
+355°
+4000
+IBRIF
+HIZSU
+17R
+175° 
+GOFDO
+P
+xx
+x
+x
+x
+3900
+x
+x
+x
+x
+LNAV only.
+3400
+x
+x
+x
+*
+175°
+1.2 NM to
+*
+0.4% UP
+RW17L
+1940
+TWR
+7208 X 150
+RW17L
+17L
+P
+3400
+P
+35L
+ GP 3.00°
+TCH 54
+6.1 NM
+3.6 NM
+1.2 NM
+C
+D
+E
+A
+B
+CATEGORY
+7198 X 150
+LPV
+DA
+34
+250 (300-   )
+34
+2041-    
+A5
+2171-1   380 (400-1   )
+14
+14
+VNAV
+LNAV/
+DA
+35R
+LNAV
+MDA
+38
+2240-1 449 (500-1)
+2240-1   449 (500-1   )
+38
+REIL Rwy 35L
+34
+2300-1
+2320-1
+2420-1   
+2460-2
+2620-3
+CIRCLING
+C
+HIRL Rwys 17L-35R and 17R-35L
+34
+509 (600-1)
+529 (600-1)
+629 (700-1   )
+669 (700-2)
+829 (900-3)
+ABILENE, TEXAS
+ABILENE RGNL
+(ABI)
+Amdt 1B  20JUN19
+32°25'N-99°41'W
+RNAV (GPS) RWY 17L
+
