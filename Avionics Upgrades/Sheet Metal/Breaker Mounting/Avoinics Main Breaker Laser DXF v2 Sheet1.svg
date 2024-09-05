@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 793.7007874015749 1122.5196850393702"
+   width="793.7007874015749"
+   height="1122.5196850393702"
+   version="1.1"
+   id="svg782"
+   sodipodi:docname="Avoinics Main Breaker Laser DXF v2 Sheet1.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview782"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.4627806"
+     inkscape:cx="502.46769"
+     inkscape:cy="210.8997"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g782" />
+  <desc
+     id="desc1">Avoinics Main Breaker Laser DXF v2 Sheet1.dxf - scale = 25.400000, origin = (0.000000, 0.000000), method = manual</desc>
+  <defs
+     id="defs4">
+    <rect
+       x="280.25061"
+       y="240.61188"
+       width="28.762244"
+       height="13.293474"
+       id="rect3" />
+    <rect
+       x="124.23356"
+       y="165.32248"
+       width="69.246912"
+       height="31.420939"
+       id="rect2" />
+    <rect
+       x="149.49116"
+       y="194.44727"
+       width="58.249587"
+       height="22.719756"
+       id="rect1" />
+    <marker
+       id="DistanceX"
+       orient="auto"
+       refX="0.0"
+       refY="0.0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 L -3,3 M 0,-5 L  0,5"
+         style="stroke:#000000; stroke-width:0.5"
+         id="path1" />
+    </marker>
+    <pattern
+       id="Hatch"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path2" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path3" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path4" />
+    </pattern>
+    <symbol
+       id="*Model_Space" />
+    <symbol
+       id="*Paper_Space" />
+    <symbol
+       id="*Paper_Space0" />
+    <rect
+       x="124.23356"
+       y="165.32248"
+       width="69.24691"
+       height="31.420938"
+       id="rect2-7" />
+    <rect
+       x="124.23356"
+       y="165.32248"
+       width="69.24691"
+       height="31.420938"
+       id="rect2-7-3" />
+    <rect
+       x="124.23356"
+       y="165.32248"
+       width="69.24691"
+       height="31.420938"
+       id="rect2-7-3-5" />
+    <rect
+       x="124.23356"
+       y="165.32248"
+       width="69.24691"
+       height="31.420938"
+       id="rect2-7-3-5-2" />
+    <rect
+       x="124.23356"
+       y="165.32248"
+       width="69.24691"
+       height="31.420938"
+       id="rect2-7-3-5-2-8" />
+    <rect
+       x="124.23356"
+       y="165.32248"
+       width="69.24691"
+       height="31.420938"
+       id="rect2-7-3-5-2-8-2" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="0"
+     id="g4" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Visible"
+     id="g782">
+    <path
+       d="m 687.3551,261.07117 a 12,12 0 0 0 12,-12"
+       style="fill:none;stroke:#000000"
+       id="path5" />
+    <path
+       d="m 284.01114,177.07117 a 19.056,19.056 0 0 0 -38.112,0 19.056,19.056 0 0 0 38.112,0 z"
+       style="fill:none;stroke:#000000"
+       id="path6" />
+    <path
+       d="m 133.91514,137.71117 a 7.2,7.2 0 0 0 -14.4,0 7.2,7.2 0 0 0 14.4,0 z"
+       style="fill:none;stroke:#000000"
+       id="path7" />
+    <path
+       d="m 679.1951,216.43117 a 7.2,7.2 0 0 0 -14.4,0 7.2,7.2 0 0 0 14.4,0 z"
+       style="fill:none;stroke:#000000"
+       id="path8" />
+    <path
+       d="m 552.81114,177.07117 a 19.056,19.056 0 0 0 -38.112,0 19.056,19.056 0 0 0 38.112,0 z"
+       style="fill:none;stroke:#000000"
+       id="path9" />
+    <path
+       d="m 620.0111,177.07117 a 19.056,19.056 0 0 0 -38.11196,0 19.056,19.056 0 0 0 38.11196,0 z"
+       style="fill:none;stroke:#000000"
+       id="path10" />
+    <path
+       style="fill:none;stroke:#000000"
+       d="m 179.275,162.464 v 29.215"
+       id="path11" />
+    <path
+       d="m 216.23514,162.46382 a 23.556,23.556 0 0 0 -36.96,0"
+       style="fill:none;stroke:#000000"
+       id="path12" />
+    <path
+       style="fill:none;stroke:#000000"
+       d="M 216.235,191.679 V 162.464"
+       id="path13" />
+    <path
+       d="m 179.27514,191.67853 a 23.556,23.556 0 0 0 36.96,0"
+       style="fill:none;stroke:#000000"
+       id="path14" />
+    <path
+       d="m 351.21114,177.07117 a 19.056,19.056 0 0 0 -38.112,0 19.056,19.056 0 0 0 38.112,0 z"
+       style="fill:none;stroke:#000000"
+       id="path15" />
+    <path
+       d="m 133.91514,216.43117 a 7.2,7.2 0 0 0 -14.4,0 7.2,7.2 0 0 0 14.4,0 z"
+       style="fill:none;stroke:#000000"
+       id="path16" />
+    <path
+       d="m 679.1951,137.71117 a 7.2,7.2 0 0 0 -14.4,0 7.2,7.2 0 0 0 14.4,0 z"
+       style="fill:none;stroke:#000000"
+       id="path17" />
+    <path
+       d="m 485.61114,177.07117 a 19.056,19.056 0 0 0 -38.112,0 19.056,19.056 0 0 0 38.112,0 z"
+       style="fill:none;stroke:#000000"
+       id="path18" />
+    <path
+       d="m 418.41114,177.07117 a 19.056,19.056 0 0 0 -38.112,0 19.056,19.056 0 0 0 38.112,0 z"
+       style="fill:none;stroke:#000000"
+       id="path19" />
+    <path
+       style="fill:none;stroke:#000000"
+       d="m 699.36,249.071 v -144"
+       id="path20" />
+    <path
+       d="m 699.3551,105.07117 a 12,12 0 0 0 -12,-12"
+       style="fill:none;stroke:#000000"
+       id="path21" />
+    <path
+       style="fill:none;stroke:#000000"
+       d="M 687.36,93.071 H 111.355"
+       id="path22" />
+    <path
+       d="m 111.35514,93.07117 a 12,12 0 0 0 -12,12"
+       style="fill:none;stroke:#000000"
+       id="path23" />
+    <path
+       style="fill:none;stroke:#000000"
+       d="m 99.355,105.071 v 144"
+       id="path24" />
+    <path
+       d="m 99.35514,249.07117 a 12,12 0 0 0 12,12"
+       style="fill:none;stroke:#000000"
+       id="path25" />
+    <path
+       style="fill:none;stroke:#000000"
+       d="M 111.355,261.071 H 687.36"
+       id="path26" />
+    <text
+       xml:space="preserve"
+       id="text1"
+       style="white-space:pre;shape-inside:url(#rect1);fill:#000000"><tspan
+         x="149.49023"
+         y="228.11593"
+         id="tspan4"><tspan
+           dx="0 7.8515625 8.203125 5.0507812 9.4453125 8.9765625 5.0507812 8.3789062 8.203125"
+           id="tspan2">AVIONICS&#10;</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text2"
+       style="white-space:pre;shape-inside:url(#rect2);shape-padding:0.362549;fill:#000000"
+       x="30.158203"
+       y="0"
+       transform="translate(38.672844,43.756361)"><tspan
+         x="129.20898"
+         y="176.63351"
+         id="tspan6"><tspan
+           style="font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, ';text-align:center;text-anchor:middle"
+           id="tspan5">AVIONICS&#10;</tspan></tspan><tspan
+         x="133.47461"
+         y="191.76757"
+         id="tspan20"><tspan
+           style="font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, ';text-align:center;text-anchor:middle"
+           id="tspan7">MASTER</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text2-4"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect2-7);shape-padding:0.362549;fill:#000000"
+       x="41.021484"
+       y="0"
+       transform="translate(105.49738,43.890426)"><tspan
+         x="147.56934"
+         y="176.49945"
+         id="tspan22"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan21">ATT&#10;</tspan></tspan><tspan
+         x="150.54004"
+         y="191.49945"
+         id="tspan24"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan23">G5</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text2-4-3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect2-7-3);shape-padding:0.362549;fill:#000000"
+       x="50.663086"
+       y="0"
+       transform="translate(172.97826,45.87433)"><tspan
+         x="148.41895"
+         y="176.49945"
+         id="tspan26"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan25">HSI&#10;</tspan></tspan><tspan
+         x="150.54004"
+         y="191.49945"
+         id="tspan28"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan27">G5</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text2-4-3-3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect2-7-3-5);shape-padding:0.362549;fill:#000000"
+       x="68.551758"
+       y="0"
+       transform="translate(240.677,45.99518)"><tspan
+         x="139.60059"
+         y="176.49945"
+         id="tspan30"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan29">COM 1&#10;</tspan></tspan><tspan
+         x="146.10156"
+         y="191.49945"
+         id="tspan32"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan31">GPS</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text2-4-3-3-5"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect2-7-3-5-2);shape-padding:0.362549;fill:#000000"
+       x="68.551758"
+       y="0"
+       transform="translate(308.80176,43.890426)"><tspan
+         x="139.60059"
+         y="176.49945"
+         id="tspan34"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan33">COM 2&#10;</tspan></tspan><tspan
+         x="141.17383"
+         y="191.49945"
+         id="tspan36"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan35">NAV 2</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text2-4-3-3-5-7"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect2-7-3-5-2-8);shape-padding:0.362549;fill:#000000"
+       x="84.55957"
+       y="0"
+       transform="translate(374.80176,51.449481)"><tspan
+         x="142.47461"
+         y="176.49945"
+         id="tspan37">XPDR</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text2-4-3-3-5-7-3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect2-7-3-5-2-8-2);shape-padding:0.362549;fill:#000000"
+       x="84.55957"
+       y="0"
+       transform="translate(442.33203,51.449481)"><tspan
+         x="145.57715"
+         y="176.49945"
+         id="tspan38">GAD</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text3"
+       style="fill:#000000;text-align:center;-inkscape-font-specification:'Sans, Normal';font-family:Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect3)" />
+  </g>
+</svg>
